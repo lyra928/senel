@@ -62,21 +62,21 @@ discord:
   # create one, once you have it, replace the text between the
   # quotes with your client id.
   #
-  clientId: 'YouBotClientIdShouldGoHere'
+  clientId: '479143074010759169'
 
   # This is your Discord application token, if you don't have a Discord
   # application, check the link above and follow the short guide to
   # create one, once you have it, replace the text between the
   # quotes with your token.
   #
-  token: 'YourBotTokenShouldGoHere'
+  token: 'NDc5MTQzMDc0MDEwNzU5MTY5.DlU8-Q.VBnKurIVWZmqGhzO5m66oG-1uC0'
 
   # This is the OAuth2 URL used for invite links, you should replace
   # the "<client_id>" with your Discord application client ID to
   # make the link valid so people can actually use it to invite
   # your bot to their server.
   #
-  oauth: 'https://discordapp.com/oauth2/authorize?&client_id=<client_id>&scope=bot&permissions=66186303'
+  oauth: 'https://discordapp.com/oauth2/authorize?&client_id=479143074010759169&scope=bot&permissions=66186303'
 
 #--------------------------------------------------------------------------
 # Database Information
